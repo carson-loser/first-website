@@ -1,6 +1,7 @@
 * {
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   padding: 0;
+  color: white;
   margin: 0;
 }
 
@@ -53,6 +54,7 @@ img {
 .contact {
  background-color:#2a607c;
  border-style: solid;
+ border-color:#233b47;
 }
 
 .contact-header {
@@ -62,6 +64,11 @@ img {
 
 form {
   text-align: center;
- 
-  
+}
+
+footer {
+  text-align: center;
+  font-size: 25px;
+  background-color:#2a607c;
+  margin-top: 100px;
 }
